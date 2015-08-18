@@ -40,7 +40,7 @@ end
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  # gem 'sqlite3'
+  gem 'sqlite3'
   gem 'byebug'
   gem 'pry'
   gem 'awesome_print'
